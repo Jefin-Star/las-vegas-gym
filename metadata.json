@@ -1,0 +1,6 @@
+{
+  "name": "LASH VEGAS",
+  "description": "LASH VEGAS - Premium modern fitness club with world-class equipment, flexible membership plans from ₹1,500, expert coaching, and prime facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
