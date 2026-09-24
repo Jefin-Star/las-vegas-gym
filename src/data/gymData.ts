@@ -9,9 +9,9 @@ export const GYM_DETAILS = {
   email: "faizushemi@gmail.com",
   instagramUrl: "https://www.instagram.com/las______vegas_?stkn=MTBheG15d3k0YmNleA==",
   instagramHandle: "@las______vegas_",
-  coordinates: "8°52'24.1\"N 76°38'29.8\"E",
-  googleMapsDirectionsUrl: "https://www.google.com/maps/search/?api=1&query=8.873370491181907,76.63904357501703",
-  mapEmbedSrc: "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3757.282452056221!2d76.63904357501703!3d8.873370491181907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zOMKwNTInMjQuMSJOIDc2wrAzOCcyOS44IkU!5e1!3m2!1sen!2sin!4v1790076684094!5m2!1sen!2sin",
+  coordinates: "8°52'23.0\"N 76°38'29.6\"E",
+  googleMapsDirectionsUrl: "https://www.google.com/maps/dir/?api=1&destination=8.8730471,76.6415502",
+  mapEmbedSrc: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3757.2857628276834!2d76.6415502!3d8.873047099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05e32dcc6aecd7%3A0x24cb112f46f9f440!2sLas%20vegas%20fitness%20centre!5e1!3m2!1sen!2sin!4v1790253704080!5m2!1sen!2sin",
   logoPath: "/lash-vegas-logo.jpg",
   heroImagePath: "/gym-hero.jpg"
 };
